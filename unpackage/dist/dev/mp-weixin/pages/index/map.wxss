@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page.data-v-0a1e5ef6 {
+  background-color: #f5f5f5;
+}
+.containers.data-v-0a1e5ef6 {
+  margin-top: 15rpx;
+  padding: 0 20rpx;
+}
+.city-cart1.data-v-0a1e5ef6 {
+  margin-bottom: 15rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.city-cart.data-v-0a1e5ef6 {
+  margin: 25rpx 0;
+  border-radius: 15rpx;
+  line-height: 60rpx;
+  padding: 15rpx;
+  background-color: #fff;
+}
+.city-cart .title.data-v-0a1e5ef6 {
+  font-weight: bold;
+}
+.city-cart .mpa.data-v-0a1e5ef6 {
+  width: 100%;
+  height: 250rpx;
+  overflow: hidden;
+}
+.city-cart .mpa image.data-v-0a1e5ef6 {
+  width: 100%;
+  height: 100%;
+}
+.cart-right.data-v-0a1e5ef6 {
+  width: 150rpx;
+  height: 150rpx;
+  margin-right: 40rpx;
+  border-radius: 15rpx;
+  overflow: hidden;
+}
+.cart-right image.data-v-0a1e5ef6 {
+  width: 100%;
+  height: 100%;
+}
+

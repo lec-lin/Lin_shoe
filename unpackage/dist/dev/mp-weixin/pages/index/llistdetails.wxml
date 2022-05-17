@@ -1,0 +1,1 @@
+<view class="containers data-v-4ec01bce"><view class="titles data-v-4ec01bce">{{''+dalist[0].title+''}}</view><view class="content data-v-4ec01bce">{{''+dalist[0].content+''}}</view></view>

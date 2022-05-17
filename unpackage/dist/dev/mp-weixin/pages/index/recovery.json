@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "口罩回收",
+  "usingComponents": {
+    "u-field": "/uview-ui/components/u-field/u-field",
+    "u-picker": "/uview-ui/components/u-picker/u-picker"
+  }
+}

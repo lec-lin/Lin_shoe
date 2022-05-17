@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.login-warp.data-v-4d0393f9 {
+  width: 90%;
+  margin: 0 auto;
+}
+.logo-confirm.data-v-4d0393f9 {
+  width: 100%;
+  height: 80rpx;
+  border-radius: 10rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  margin-top: 10rpx;
+  background-color: #38b485;
+}
+.logo-confirm1.data-v-4d0393f9 {
+  width: 100%;
+  height: 80rpx;
+  border-radius: 10rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #39b485;
+  margin-top: 10rpx;
+  background-color: #FFFFFF;
+}
+.agreement.data-v-4d0393f9 {
+  display: flex;
+  align-items: center;
+  margin: 20rpx 0;
+}
+.agreement .agreement-text.data-v-4d0393f9 {
+  color: #38b485;
+}
+

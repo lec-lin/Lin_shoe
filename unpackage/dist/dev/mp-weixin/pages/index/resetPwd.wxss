@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page.data-v-f6542178 {
+  background-color: #FFFFFF;
+}
+.wrap.data-v-f6542178 {
+  padding: 0 30rpx;
+}
+.text-tips.data-v-f6542178 {
+  padding-top: 20rpx;
+  font-size: 22rpx;
+}
+

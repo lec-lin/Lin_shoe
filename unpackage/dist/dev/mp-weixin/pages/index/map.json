@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "核酸地点查看",
+  "usingComponents": {
+    "u-search": "/uview-ui/components/u-search/u-search"
+  }
+}

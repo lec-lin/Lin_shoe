@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.containers.data-v-4ec01bce {
+  padding: 20rpx;
+}
+.titles.data-v-4ec01bce {
+  margin: 20rpx 0;
+  font-size: 32rpx;
+  text-align: center;
+}
+

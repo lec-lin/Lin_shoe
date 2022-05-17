@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.content.data-v-c3d8bbfa {
+  margin: 40% 0;
+}
+.title.data-v-c3d8bbfa {
+  font-size: 50rpx;
+  text-align: center;
+  margin: 20rpx auto;
+  font-weight: bold;
+}
+.lable.data-v-c3d8bbfa {
+  font-size: 22rpx;
+  text-align: center;
+  margin: 20rpx auto;
+}
+.Wticon.data-v-c3d8bbfa {
+  margin-right: 10rpx;
+}
+.checkbox.data-v-c3d8bbfa {
+  margin-top: 20rpx;
+}
+.checkbox text.data-v-c3d8bbfa {
+  color: #38b485;
+}
+.login-warp.data-v-c3d8bbfa {
+  width: 90%;
+  margin: 0 auto;
+}
+.logo-confirm.data-v-c3d8bbfa {
+  width: 100%;
+  height: 80rpx;
+  border-radius: 10rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  margin-top: 30rpx;
+  background-color: #3366FF;
+}
+.tips.data-v-c3d8bbfa {
+  display: flex;
+  justify-content: center;
+  margin-top: 20rpx;
+}
+.tips .forgetPass.data-v-c3d8bbfa {
+  color: #ff0000;
+}
+.tips .register.data-v-c3d8bbfa {
+  margin-left: 20rpx;
+  color: #666;
+}
+.agreement.data-v-c3d8bbfa {
+  display: flex;
+  align-items: center;
+  margin: 20rpx 0;
+}
+.agreement .agreement-text.data-v-c3d8bbfa {
+  color: #3366FF;
+}
+
